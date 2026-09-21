@@ -5,6 +5,10 @@ A clean, battery-friendly watch face for the Garmin Fenix 7 series: big white ti
 Targets: fenix 7 (47mm, 260x260) and fenix 7 Pro.
 Status: builds and runs in the simulator and on a real Fenix 7. Store submission is in progress.
 
+![Summit Clean on a Fenix 7: large white time, date and temperature above it, a step-goal arc around the bezel, and steps and battery below](screenshots/fenix7-watch.png)
+
+Photo of the face on a Fenix 7. The camera shifts the display colors; the default accent color is orange.
+
 ## Features
 - Time in large white digits, 12 or 24 hour following the watch setting.
 - Step-goal arc that fills clockwise from 12 o'clock.
