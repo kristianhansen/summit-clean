@@ -1,0 +1,5 @@
+<properties>
+    <property id="ThemeColor" type="number">0</property>
+    <property id="FieldLeft" type="number">0</property>
+    <property id="FieldRight" type="number">1</property>
+</properties>

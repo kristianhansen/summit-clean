@@ -1,0 +1,7 @@
+# ABOUTME: Files git must never track for Summit Clean: build output and signing keys.
+# ABOUTME: developer_key / *.der is the Connect IQ signing key; losing or leaking it is unrecoverable.
+bin/
+*.iq
+*.der
+developer_key*
+.DS_Store

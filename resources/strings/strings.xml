@@ -1,0 +1,14 @@
+<strings>
+    <string id="AppName">Summit Clean</string>
+    <string id="ThemeTitle">Accent color</string>
+    <string id="ThemeOrange">Orange</string>
+    <string id="ThemeCyan">Cyan</string>
+    <string id="ThemeGreen">Green</string>
+    <string id="ThemeWhite">White</string>
+    <string id="FieldLeftTitle">Left field</string>
+    <string id="FieldRightTitle">Right field</string>
+    <string id="FieldSteps">Steps</string>
+    <string id="FieldBattery">Battery</string>
+    <string id="FieldHeartRate">Heart rate</string>
+    <string id="FieldCalories">Calories</string>
+</strings>

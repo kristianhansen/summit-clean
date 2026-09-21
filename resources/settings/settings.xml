@@ -1,0 +1,26 @@
+<settings>
+    <setting propertyKey="@Properties.ThemeColor" title="@Strings.ThemeTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ThemeOrange</listEntry>
+            <listEntry value="1">@Strings.ThemeCyan</listEntry>
+            <listEntry value="2">@Strings.ThemeGreen</listEntry>
+            <listEntry value="3">@Strings.ThemeWhite</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.FieldLeft" title="@Strings.FieldLeftTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.FieldSteps</listEntry>
+            <listEntry value="1">@Strings.FieldBattery</listEntry>
+            <listEntry value="2">@Strings.FieldHeartRate</listEntry>
+            <listEntry value="3">@Strings.FieldCalories</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.FieldRight" title="@Strings.FieldRightTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.FieldSteps</listEntry>
+            <listEntry value="1">@Strings.FieldBattery</listEntry>
+            <listEntry value="2">@Strings.FieldHeartRate</listEntry>
+            <listEntry value="3">@Strings.FieldCalories</listEntry>
+        </settingConfig>
+    </setting>
+</settings>
